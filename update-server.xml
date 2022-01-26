@@ -2,7 +2,7 @@
 <updates>
 	<update>
 		<name>plg_carwash_notifycustomer</name>
-		<description>Listen on submit appointment and send email</description>
+		<description>Listen appointment submission and send email to customer</description>
 		<element>notifycustomer</element>
 		<type>plugin</type>
 		<client>site</client>
