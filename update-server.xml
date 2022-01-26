@@ -5,6 +5,7 @@
 		<description>Listen on submit appointment and send email</description>
 		<element>notifycustomer</element>
 		<type>plugin</type>
+		<folder>carwash</folder>
 		<version>1.0.3</version>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/harunollyo/update/releases/download/v1.0.0/plg_carwash_notifycustomer_1.0.3.zip</downloadurl>
